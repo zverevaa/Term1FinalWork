@@ -46,4 +46,4 @@ ___
 
 ___
 
-Задача решена на языке программирования C# в файле [Program.cs](Program/Program.cs). Блок-схема находится в файле [diagram.drawio](/diagram.drawio).
+Задача решена на языке программирования C# в файле [Program.cs](Program/Program.cs). Блок-схема находится в файле [diagram.drawio](/diagram.png).
